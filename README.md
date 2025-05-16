@@ -51,5 +51,5 @@ Sentiti libero di modificarlo, riutilizzarlo e distribuirlo con credito.
 
 ## 💬 Feedback
 
-Se hai idee, bug o suggerimenti: apri una [Issue](https://github.com/tuo-repo/issues) o contattami via email.
+Se hai idee, bug o suggerimenti: apri una [Issue](https://github.com/RinominatoreFile/issues) o contattami via email.
 
