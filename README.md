@@ -35,6 +35,7 @@
 ---
 
 ## 📦 Download
+![AppLogo](RN_AppLogo.png)
 
 ### 🔗 [Scarica la versione portable (x64)](Download/RinominatoreFile_x64.exe)  
 ### 🔗 [Scarica la versione portable (x86)](Download/RinominatoreFile_x86.exe)
